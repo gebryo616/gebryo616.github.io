@@ -1,6 +1,6 @@
-title:    Zehui Lin # your name (or website title) here
+title:    林 泽辉 # your name (or website title) here
 
-logo: "images/profile.JPG?raw=true" # your photo (or logo) here
+logo: "image/profile.JPG?raw=true" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
@@ -10,10 +10,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   </p>
   
   <p align="justify">
-  Hi, I'm Jiawen Liang at Simon Business School, University of Rochester.
+  嘿，我是林泽辉，我是一个学习兴趣广泛并且热爱学习的人。
   <br><br>
-  Currently, I am seeking data science opportunities. If you are interested in me and my analytical work, please reach out to me!
+  我感兴趣的学科有心理，金融，经济与数学。
   <br><br>
+  其中我尤其感兴趣的领域有情绪学，流动性（liquidity，and credit system）& Markov theory.
+  <br><br>
+  除此之外我还热爱柔道，与巴西柔术。
   </p>
  
 theme: jekyll-theme-minimal
